@@ -1,3 +1,11 @@
+<#
+.DESCRIPTION
+    This script will get Windows OS details like license name,
+     Product key information etc. 
+    Author: Jatin Makhija
+    Website: Copyright - Cloudinfra.net
+    Version: 1.0.0
+#>
 # Define color codes for better formatting
 $foregroundColor = "Yellow"
 $backgroundColor = "Black"
